@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me:
 
-    🥭 Facebook : https://www.facebook.com/itsFSadaf/
+🥭 Facebook : https://www.facebook.com/itsFSadaf/
 
-    🍓 LinkedIn : https://www.linkedin.com/in/farhansadaf/
+🍓 LinkedIn : https://www.linkedin.com/in/farhansadaf/
