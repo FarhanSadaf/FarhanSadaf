@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🥭 Facebook : https://www.facebook.com/itsFSadaf/
+🔗 Facebook : https://www.facebook.com/itsFSadaf/
 
-🍓 LinkedIn : https://www.linkedin.com/in/farhansadaf/
+🔗 LinkedIn : https://www.linkedin.com/in/farhansadaf/
+
+🔗 Kaggle : https://www.kaggle.com/farhansadaf 
