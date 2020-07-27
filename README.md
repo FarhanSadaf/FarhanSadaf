@@ -1,4 +1,4 @@
-## Hello 🎍
+## Hello 👋
 
 <!--
 **FarhanSadaf/FarhanSadaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔗 Facebook : https://www.facebook.com/itsFSadaf/
-
-🔗 LinkedIn : https://www.linkedin.com/in/farhansadaf/
-
-🔗 Kaggle : https://www.kaggle.com/farhansadaf 
+### 📫 How to reach me:
+[![Facebook Follow](https://img.shields.io/badge/%20-itsFSadaf-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)]( https://www.facebook.com/itsFSadaf/)     
+[![LinkedIn Connect](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farhansadaf/)    
+[![Kaggle Follow](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=FD1D1D&logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/farhansadaf)    
+[![Email Address](https://img.shields.io/badge/%20-farhansadaf@outlook.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:farhansadaf@outlook.com)
