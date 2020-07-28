@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 -->
 
 ### 🔗 Connect with me:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Facebook Follow](https://img.shields.io/badge/%20-itsFSadaf-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)]( https://www.facebook.com/itsFSadaf/)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farhansadaf/)   [![Kaggle Follow](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=1976d2&logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/farhansadaf)
+&nbsp;&nbsp;
+[![LinkedIn Connect](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farhansadaf/) 
+&nbsp;&nbsp;
+[![Kaggle Follow](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=1976d2&logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/farhansadaf)
+&nbsp;&nbsp;
 [![Email Address](https://img.shields.io/badge/%20-farhansadaf@outlook.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:farhansadaf@outlook.com)
