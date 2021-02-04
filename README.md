@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔗 Connect with me:
+### 🔗 Find me:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Facebook Follow](https://img.shields.io/badge/%20-itsFSadaf-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)]( https://www.facebook.com/itsFSadaf/)
 &nbsp;&nbsp;
