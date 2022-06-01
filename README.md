@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![LinkedIn Connect](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farhansadaf/) 
 &nbsp;&nbsp;
+[![Researchgate Follow](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=0e76a8&logo=researchgate&logoColor=ffffff)](https://www.researchgate.net/profile/Farhan-Sadaf)
+&nbsp;&nbsp;
 [![Kaggle Follow](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=1976d2&logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/farhansadaf)
 &nbsp;&nbsp;
-[![Email Address](https://img.shields.io/badge/%20-farhansadaf@outlook.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:farhansadaf@outlook.com)
+[![Email Address](https://img.shields.io/badge/%20-imfarhansadaf@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:imfarhansadaf@gmail.com)
 
 ![FarhanSadaf's GitHub stats](https://github-readme-stats-q2mtlfsgz-farhansadaf.vercel.app/api?username=FarhanSadaf&show_icons=true&theme=gotham&count_private=true&hide_border=true&hide=contribs,issues)
 
