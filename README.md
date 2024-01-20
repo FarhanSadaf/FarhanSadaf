@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 🍀
 ![](https://komarev.com/ghpvc/?username=FarhanSadaf&style=for-the-badge)
 
 <!--
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔗 Find me:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Researchgate Follow](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=0e76a8&logo=researchgate&logoColor=ffffff)](https://www.researchgate.net/profile/Farhan-Sadaf)
 &nbsp;&nbsp;
 [![Kaggle Follow](https://img.shields.io/badge/%20-farhansadaf-black?color=14171A&labelColor=1976d2&logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/farhansadaf)
