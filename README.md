@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![Email Address](https://img.shields.io/badge/%20-farhansadaf@outlook.com-black?color=14171A&labelColor=D44638&logo=microsoft&logoColor=fff)](mailto:farhansadaf@outlook.com)
 
-![FarhanSadaf's GitHub stats](https://github-readme-stats-q2mtlfsgz-farhansadaf.vercel.app/api?username=FarhanSadaf&show_icons=true&theme=gotham&count_private=true&hide_border=true&hide=contribs,issues)
+![FarhanSadaf's GitHub stats](https://github-readme-stats-q2mtlfsgz-farhansadaf.vercel.app/api?username=FarhanSadaf&show_icons=true&theme=github_dark&count_private=true&hide_border=true&hide=contribs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSadaf&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSadaf&layout=compact&theme=github_dark&hide_border=true&hide_progress=false&langs_count=8)
 
 
