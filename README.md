@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![Email Address](https://img.shields.io/badge/%20-farhansadaf@outlook.com-black?color=14171A&labelColor=D44638&logo=microsoft&logoColor=fff)](mailto:farhansadaf@outlook.com)
 
-![FarhanSadaf's GitHub stats](https://github-readme-stats-q2mtlfsgz-farhansadaf.vercel.app/api?username=FarhanSadaf&show_icons=true&theme=github_dark&count_private=true&hide_border=true&hide=contribs,issues)
+![FarhanSadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanSadaf&show_icons=true&theme=transparent&count_private=true&hide=contribs,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSadaf&layout=compact&theme=github_dark&hide_border=true&hide_progress=false&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSadaf&layout=compact&theme=transparent&hide_border=false&hide_progress=false&langs_count=8)
 
 
