@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![Email Address](https://img.shields.io/badge/%20-farhansadaf@outlook.com-black?color=14171A&labelColor=D44638&logo=microsoft&logoColor=fff)](mailto:farhansadaf@outlook.com)
 
-![FarhanSadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanSadaf&show_icons=true&theme=transparent&count_private=true&hide=contribs,issues)
+[![FarhanSadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanSadaf&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&hide=contribs,issues)](https://github.com/FarhanSadaf/github-readme-stats#gh-dark-mode-only)
+[![FarhanSadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanSadaf&show_icons=true&theme=default#gh-light-mode-only&count_private=true&hide=contribs,issues)](https://github.com/FarhanSadaf/github-readme-stats#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSadaf&layout=compact&theme=transparent&hide_border=false&hide_progress=false&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSadaf&layout=compact&theme=dark#gh-dark-mode-only&hide_border=false&hide_progress=false&langs_count=8)](https://github.com/FarhanSadaf/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSadaf&layout=compact&theme=default#gh-light-mode-only&hide_border=false&hide_progress=false&langs_count=8)](https://github.com/FarhanSadaf/github-readme-stats#gh-light-mode-only)
+
 
 
