@@ -1,9 +1,10 @@
 ## Hello 🍀
-![](https://komarev.com/ghpvc/?username=FarhanSadaf&style=for-the-badge)
 
 <!--
 **FarhanSadaf/FarhanSadaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hello 🍀
+
+![](https://komarev.com/ghpvc/?username=FarhanSadaf&style=for-the-badge)
 
 Here are some ideas to get you started:
 
